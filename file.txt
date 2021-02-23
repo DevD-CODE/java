@@ -1,0 +1,1 @@
+Este es un archivo simple de texto que no contiene codificacion alguna
